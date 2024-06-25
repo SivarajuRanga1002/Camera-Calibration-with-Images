@@ -27,7 +27,7 @@ Camera calibration is crucial for accurate metric measurements in computer visio
    ```bash
    git clone https://github.com/yourusername/camera-calibration.git
 2. **Setup the Google Colab Notebook:**
-  ```bash
+   ```bash
   Open the notebook link provided in the project: Google Colab Notebook.
   Use "Save a Copy in Drive" to create a personal editable version.
   Upload calibration images to the images folder in the notebook environment.
