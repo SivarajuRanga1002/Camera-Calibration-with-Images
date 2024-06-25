@@ -32,6 +32,6 @@ Camera calibration is crucial for accurate metric measurements in computer visio
    Use "Save a Copy in Drive" to create a personal editable version.
    Upload calibration images to the images folder in the notebook environment.
 3. **Run the Notebook:**
-  ```bash
-  Execute the notebook cells step-by-step to perform camera calibration and distance measurements.
-  View and analyze the outputs directly in the notebook.
+   ```bash
+   Execute the notebook cells step-by-step to perform camera calibration and distance measurements.
+   View and analyze the outputs directly in the notebook.
